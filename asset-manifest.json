@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pragati-portfolio/static/css/main.f5275af6.css",
+    "main.js": "/pragati-portfolio/static/js/main.78926516.js",
+    "index.html": "/pragati-portfolio/index.html",
+    "main.f5275af6.css.map": "/pragati-portfolio/static/css/main.f5275af6.css.map",
+    "main.78926516.js.map": "/pragati-portfolio/static/js/main.78926516.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5275af6.css",
+    "static/js/main.78926516.js"
+  ]
+}
